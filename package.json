@@ -1,0 +1,23 @@
+{
+  "name": "Science-Machine",
+  "version": "0.0.0",
+  "description": "A beautiful science machine for dummies and experts!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alissonbovenzo/science-machine.git"
+  },
+  "keywords": [
+    "Science",
+    "Machine",
+    "Physics"
+  ],
+  "author": "Alisson Desandro Bovenzo",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/alissonbovenzo/science-machine/issues"
+  }
+}
