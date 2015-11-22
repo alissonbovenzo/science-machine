@@ -20,5 +20,12 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "three.js": "~0.73.0",
+    "angular": "angularjs#~1.4.8",
+    "jquery": "~2.1.4",
+    "mojs": "~0.174.4",
+    "angular-ui-router": "~0.2.15"
+  }
 }
