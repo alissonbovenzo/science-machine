@@ -26,6 +26,7 @@
     "angular": "angularjs#~1.4.8",
     "jquery": "~2.1.4",
     "mojs": "~0.174.4",
-    "angular-ui-router": "~0.2.15"
+    "angular-ui-router": "~0.2.15",
+    "oclazyload": "ocLazyLoad#~1.0.8"
   }
 }
